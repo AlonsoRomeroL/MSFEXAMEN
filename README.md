@@ -1,9 +1,9 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=KeybinSanchez/MSFPracticaExam)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AlonsoRomeroL/MSFEXAMEN)
 
 # Práctica de Exámen: Sistema circulatorio
-## Información de la estudiante
+## Información del estudiante
 
-Sanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
+Romero Landa Alonso Alejandro \[21212749]; l21212749@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -23,7 +23,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Objetivos
 
-1. Dibujar el diagrama eléctrico del sistema cardiovascular, identificando cada uno de sus elementos: componentes, voltajes, corrientes y nodos de entrada y salida.
+1. Dibujar el diagrama eléctrico del sistema circulatorio, identificando cada uno de sus elementos: componentes, voltajes, corrientes y nodos de entrada y salida.
 2. Determinar el modelo de ecuaciones integro-diferenciales del sistema.
 3. Calcular la función de transferencia del sistema.
 4. Utilizar Simulink para construir el sistema cardiovascular descrito.
