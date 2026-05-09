@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MSFEXAMEN: Sistema Circulatorio'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Alonso '
+    family-names: Romero Landa
+    email: l21212749@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de Mexico
+identifiers:
+  - type: url
+    value: 'https://github.com/AlonsoRomeroL/MSFEXAMEN'
+repository-code: 'https://github.com/AlonsoRomeroL/MSFEXAMEN'
+keywords:
+  - Sistema circulatorio
+  - Circuito RLC
+  - Controlador PID
+  - Modelo Matematico
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-08'
